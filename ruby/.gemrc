@@ -1,0 +1,2 @@
+# Dont install gem rdoc or ri
+# gem: --no-rdoc --no-ri
