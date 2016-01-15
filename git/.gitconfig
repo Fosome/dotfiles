@@ -1,0 +1,10 @@
+[user]
+  name = Ryan Foster
+  email = ryan.foster@viget.com
+[github]
+  user = Fosome
+[color] 
+  branch = auto
+  color = auto
+  diff = auto
+  ui = true
